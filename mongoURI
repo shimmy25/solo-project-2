@@ -1,4 +1,0 @@
-const mongoURI =
-  'mongodb+srv://shimmy25:SOMgMO61xyE72NJM@cluster0.hafhoi0.mongodb.net/test';
-
-module.exports = mongoURI;
